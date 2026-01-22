@@ -147,3 +147,20 @@ Computer Science Graduate | Associate Software Engineer – AI/ML
 📍 Lahore, Pakistan
 📧 arqamaltaf@gmail.com
 
+
+🚧 Implementation Status
+
+This project is currently an MVP. The following features are implemented:
+- Image upload and OCR processing
+- Backend API with FastAPI
+- Flutter MVVM architecture
+- Structured JSON output
+
+Planned enhancements:
+- PDF document support
+- Offline history caching
+- spaCy-based NER
+- Multi-language OCR
+- Advanced UI visualization
+
+
